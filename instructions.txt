@@ -1,0 +1,6 @@
+All exe/tar/zip files were moved to applications folder 
+ All mp4/vid/webm/avi/mkv files were moved to videos folder 
+ All jpg/jpeg/png files were moved to photos folder 
+ all mp3/wav/aac files were moved to music folder 
+ All txt/docx/doc/pdf files were moved to documents folder 
+ All other files were moved to misc folder 
